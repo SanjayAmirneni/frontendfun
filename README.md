@@ -8,3 +8,4 @@ Building 25 small React projects to brush up on the skills.
 6. TreeView
 7. QR Code Generator
 8. Light Dark Theme
+9. Scroll Indicator
